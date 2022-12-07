@@ -1,6 +1,9 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "backpack/weapons/c_models/c_wooden_bat/c_wooden_bat_large"
 	"$translucent" 1
-	$vertexcolor 1
+	"$baseTexture" "vgui\replay\thumbnails\weapons\c_wooden_bat_large"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
 }

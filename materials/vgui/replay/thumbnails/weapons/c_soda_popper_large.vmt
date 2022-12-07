@@ -1,6 +1,9 @@
 "UnlitGeneric"
 {
-	"$baseTexture" "backpack\weapons\c_models\c_soda_popper\c_soda_popper_large"
-	$translucent 1
-	$vertexcolor 1
+	"$translucent" 1
+	"$baseTexture" "vgui\replay\thumbnails\weapons\c_soda_popper_large"
+	"$vertexcolor" 1
+	"$no_fullbright" 1
+	"$ignorez" 1
+	"%keywords" "tf"
 }

@@ -205,6 +205,8 @@
 		"tall"			"100"
 		"visible"		"1"
 		"enabled"		"1"
+
+		"image"			""
 	}	
 	
 	"TeamBar"
@@ -295,20 +297,20 @@
 			"ControlName"		"CExLabel"
 			"fieldName"		"TimePanelValue"
 			"font"			"CerbeticaBold24"
-			"font_minmode"	"CerbeticaBold24"
+			"font_minbad"	"CerbeticaBold24"
 			"font_lodef"	"HudFontMedium"
 			"fgcolor"		"TanLight"
 			"xpos"			"20"
-			"xpos_minmode"	"20"
+			"xpos_minbad"	"20"
 			"xpos_hidef"	"114"
 			"xpos_lodef"	"114"
 			"ypos"			"16"
-			"ypos_minmode"	"16"
+			"ypos_minbad"	"16"
 			"ypos_hidef"	"15"
 			"ypos_lodef"	"18"
 			"zpos"			"3"
 			"wide"			"70"
-			"wide_minmode"	"70"
+			"wide_minbad"	"70"
 			"wide_lodef"	"50"
 			"tall"			"31"
 			"visible"		"1"
@@ -322,10 +324,10 @@
 
 				"xpos"			"10"
 				"ypos"			"11"
-				"ypos_minmode"	"10"
+				"ypos_minbad"	"10"
 				"tall"			"16"
 				"font"			"CerbeticaBold20"
-				"font_minmode"	"CerbeticaBold20"
+				"font_minbad"	"CerbeticaBold20"
 				"font_lodef"	"CerbeticaBold20"
 			}
 		}	
