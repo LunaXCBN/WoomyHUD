@@ -47,7 +47,7 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"20"
         "wide"			"256"
-        "tall"			"128"
+        "tall"			"110"
         "scaleImage"	"1"
         "image"			"replay/thumbnails/tflogo"
 	}
