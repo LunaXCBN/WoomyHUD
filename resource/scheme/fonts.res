@@ -2264,829 +2264,6 @@ Scheme
 			}
 		}
 
-		//hud xhairs
-		"xHairCircle"
-		{
-			"1"
-			{
-				"name"		"Courier New"
-				"tall"		"72"
-				"weight"	"0"
-				"antialias"	"1"
-			}
-		}
-		
-		"xHairCircleOutline"
-		{
-			"1"
-			{
-				"name"		"Courier New"
-				"tall"		"72"
-				"weight"	"0"
-				"antialias"	"1"
-				"outline"	"1"
-			}
-		}
-
-		"Crosshairs8"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"8"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"Crosshairs10"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"10"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"Crosshairs12"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"12"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"Crosshairs14"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"14"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"Crosshairs16"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"16"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"Crosshairs18"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"18"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-
-		"CrosshairsOutline18"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"18"
-			"weight" 		"0"
-			"antialias" 	"1"
-			"outline"		"1"
-			}
-		}
-		
-		"Crosshairs20"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"20"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"Crosshairs22"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"22"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"Crosshairs24"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"24"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"CrosshairsOutline24"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"24"
-			"weight" 		"0"
-			"antialias" 	"1"
-			"outline"		"1"
-			}
-		}
-		
-		"Crosshairs26"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"26"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"CrosshairsOutline26"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"26"
-			"weight" 		"0"
-			"antialias" 	"1"
-			"outline"		"1"
-			}
-		}
-		
-		"Crosshairs28"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"28"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"Crosshairs30"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"30"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"Crosshairs32"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"32"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-
-		"CrosshairsOutline32"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"32"
-			"weight" 		"0"
-			"antialias" 	"1"
-			"outline"		"1"
-			}
-		}
-		
-		"Crosshairs34"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"34"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"CrosshairsOutline34"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"34"
-			"weight" 		"0"
-			"antialias" 	"1"
-			"outline"		"1"
-			}
-		}
-		
-		"Crosshairs36"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"36"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"Crosshairs38"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"38"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"Crosshairs40"
-		{
-			"1"
-			{
-			"name"			"Crosshairs"
-			"tall" 			"40"
-			"weight" 		"0"
-			"antialias" 	"1"
-			}
-		}
-		
-		"Symbol16"
-		{
-			"1"
-			{
-			"name"			"Symbol"
-			"tall"			"16"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		
-		"Symbol24"
-		{
-			"1"
-			{
-			"name"			"Symbol"
-			"tall"			"24"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		
-		"SymbolOutline24"
-		{
-			"1"
-			{
-			"name"			"Symbol"
-			"tall"			"24"
-			"weight"		"0"
-			"antialias"		"1"
-			"outline"		"1"
-			}
-		}
-		
-		"Symbol32"
-		{
-			"1"
-			{
-			"name"			"Symbol"
-			"tall"			"32"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		
-		"Symbol40"
-		{
-			"1"
-			{
-			"name"			"Symbol"
-			"tall"			"40"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		"KonrWings16"
-		{
-			"1"
-			{
-			"name"			"Garm3nFont"
-			"tall"			"16"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		"KonrWings24"
-		{
-			"1"
-			{
-			"name"			"Garm3nFont"
-			"tall"			"24"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		"KonrWingsOutline24"
-		{
-			"1"
-			{
-			"name"			"Garm3nFont"
-			"tall"			"24"
-			"weight"		"0"
-			"antialias"		"1"
-			"outline"		"1"
-			}
-		}
-		"KonrWings32"
-		{
-			"1"
-			{
-			"name"			"Garm3nFont"
-			"tall"			"32"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		"KonrWings40"
-		{
-			"1"
-			{
-			"name"			"Garm3nFont"
-			"tall"			"40"
-			"weight"		"0"
-			"antialias"		"1"
-			}
-		}
-		
-		"Cerbetica7"
-		{
-			"1"
-			{
-				"name"		 "Splatfont 2"
-				"tall" 		 "7"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica8"
-		{
-			"1"
-			{
-				"name"		 "Splatfont 2"
-				"tall" 		 "8"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica9"
-		{
-			"1"
-			{
-				"name"		 "Splatfont 2"
-				"tall" 		 "9"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica12"
-		{
-			"1"
-			{
-				"name"		 "Splatfont 2"
-				"tall" 		 "12"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica14"
-		{
-			"1"
-			{
-				"name"		 "Splatfont 2"
-				"tall" 		 "14"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica16"
-		{
-			"1"
-			{
-				"name"		 "Splatfont 2"
-				"tall" 		 "16"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica20"
-		{
-			"1"
-			{
-				"name"		 "Splatfont 2"
-				"tall" 		 "20"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica22"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "22"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-
-		"Cerbetica24"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "24"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaOutline24"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "24"
-				"additive"	 "0"
-				"antialias"	 "1"
-				"outline"	 "1"
-			}
-		}
-		"Cerbetica26"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "26"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica28"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "26"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica32"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "32"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica40"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "40"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica48"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "48"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica52"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "52"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica54"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "54"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica55"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "55"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica56"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "56"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica60"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "60"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"Cerbetica72"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "72"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold12"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "10"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold13"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "11"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold14"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "12"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold15"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "13"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold16"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "14"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold17"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "15"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold20"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "18"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold24"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "22"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBoldOutline24"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "22"
-				"additive"	 "0"
-				"antialias"	 "1"
-				"outline"	 "1"
-			}
-		}
-		"CerbeticaBoldOutline16"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "14"
-				"additive"	 "0"
-				"antialias"	 "1"
-				"outline"	 "1"
-			}
-		}
-		"CerbeticaBoldOutline32"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "30"
-				"additive"	 "0"
-				"antialias"	 "1"
-				"outline"	 "1"
-			}
-		}
-		"CerbeticaBold28"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "26"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold32"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "30"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold36"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "34"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold42"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "40"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold44"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "42"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold46"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "44"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold48"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "46"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold56"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "46"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBoldMedic56"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball Medic"
-				"tall" 		 "54"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold64"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "62"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold72"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "70"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
-		"CerbeticaBold124"
-		{
-			"1"
-			{
-				"name"		 "Project Paintball"
-				"tall" 		 "122"
-				"additive"	 "0"
-				"antialias"	 "1"
-			}
-		}
 		"TF2ComboBox"
 		{
 			"1"
@@ -3107,6 +2284,110 @@ Scheme
 				"weight"	"400"
 				"additive"	"0"
 				"antialias" 	"1"
+			}
+		}
+
+		// // CUSTOM FONTS
+
+		// Project Paintball
+
+		"Paintball8"
+		{
+			"1"
+			{
+				"name"		"Project Paintball"
+				"tall"		"8"
+				"antialias"	"1"
+			}
+		}
+		"Paintball10"
+		{
+			"1"
+			{
+				"name"		"Project Paintball"
+				"tall"		"10"
+				"antialias"	"1"
+			}
+		}
+		"Paintball12"
+		{
+			"1"
+			{
+				"name"		"Project Paintball"
+				"tall"		"12"
+				"antialias"	"1"
+			}
+		}
+		"Paintball14"
+		{
+			"1"
+			{
+				"name"		"Project Paintball"
+				"tall"		"14"
+				"antialias"	"1"
+			}
+		}
+		"Paintball16"
+		{
+			"1"
+			{
+				"name"		"Project Paintball"
+				"tall"		"16"
+				"antialias"	"1"
+			}
+		}
+		"Paintball18"
+		{
+			"1"
+			{
+				"name"		"Project Paintball"
+				"tall"		"18"
+				"antialias"	"1"
+			}
+		}
+		"Paintball20"
+		{
+			"1"
+			{
+				"name"		"Project Paintball"
+				"tall"		"20"
+				"antialias"	"1"
+			}
+		}
+		"Paintball24"
+		{
+			"1"
+			{
+				"name"		"Project Paintball"
+				"tall"		"24"
+				"antialias"	"1"
+			}
+		}
+		"Paintball32"
+		{
+			"1"
+			{
+				"name"		"Project Paintball"
+				"tall"		"32"
+				"antialias"	"1"
+			}
+		}
+		"Paintball48"
+		{
+			"1"
+			{
+				"name"		"Project Paintball"
+				"tall"		"48"
+				"antialias"	"1"
+			}
+		}
+		"Paintball56"
+		{
+			"1"
+			{
+				"name"		"Project Paintball"
+				"tall"		"56"
+				"antialias"	"1"
 			}
 		}
 

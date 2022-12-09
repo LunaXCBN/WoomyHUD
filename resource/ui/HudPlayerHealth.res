@@ -148,7 +148,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"CerbeticaBold56"
+		"font"			"Paintball56"
 		"fgcolor"		"Health Normal"
 	}
 	"PlayerStatusHealthValueShadow"
@@ -165,7 +165,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"CerbeticaBold56"
+		"font"			"Paintball56"
 		"fgcolor"		"TransparentBlack"
 	}	
 	"PlayerStatusHealthValueShadowBorder"
