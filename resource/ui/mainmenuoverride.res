@@ -5,6 +5,67 @@
 
 "Resource/UI/MainMenuOverride.res"
 {
+    "HUDTitle"
+    {
+        "ControlName"   "CExLabel"
+        "fieldName"     "HUDTitle"
+        "xpos"          "c-110"
+        "ypos"          "c-155"
+        "zpos"          "100"
+        
+        "visible"       "1"
+        "enabled"       "1"
+
+        "wide"          "125"
+        "tall"          "50"
+
+        "font"          "Splatfont18"
+        "labelText"     "WoomyHUD Remade"
+        "fgcolor_override"  "255 255 255 155"
+    }
+
+    "Background"
+	{
+		if_taller
+		{
+			"wide"			"o1.6"
+			"tall"			"f0"
+		}
+		
+		if_halloween_0
+		{
+			"image"		"../console/background_upward"
+		}
+		if_halloween_1
+		{
+			"image"		"../console/background_upward"
+		}
+		if_halloween_2
+		{
+			"image"		"../console/background_upward"
+		}
+		if_halloween_3
+		{
+			"image"		"../console/background_upward"
+		}
+		if_halloween_4
+		{	
+			"image"		"../console/background_upward"
+		}
+		if_halloween_5
+		{	
+			"image"		"../console/background_upward"
+		}
+		if_fullmoon
+		{
+			"image"		"../console/background_upward"
+		}
+		if_christmas
+		{
+			"image"		"../console/background_upward"
+		}		
+	}
+
     "ConsoleButton"
     {
         "ControlName"   "CExImageButton"
@@ -19,11 +80,26 @@
         "command"       "engine toggleconsole"
     }
 
+    "RankModelPanel"
+	{
+		"visible"       "0"
+        "enabled"       "0"
+	}
     "RankBorder"
 	{
 		"visible"       "0"
         "enabled"       "0"
 	}
+    "RankPanel"
+	{
+		"xpos"			"c-123"
+		"ypos"			"c128"
+	}
+
+    "TFCharacterImage"
+    {
+        "xpos"          "9999"
+    }
     "EventPromo"
     {
         "Background"
@@ -36,25 +112,52 @@
     {
         "border"        "none"
 
+        "xpos"          "10"
+        "ypos"          "175"
+        "wide"          "225"
+
+        "TitleLabel"
+        {   
+            "xpos"      "193"
+            "ypos"      "8"
+        }
+
         "InnerShadow"
 		{
             "visible"       "0"
             "enabled"       "0"
 		}
+
+        "SteamFriendsList"
+        {
+            "columns_count"	"2"
+            "column_gap"    "6"
+			"inset_x"		"5"
+			"inset_y"		"5"
+			"row_gap"		"3"
+            "restrict_width"	"0"
+
+            "wide"			"f10"
+
+            "friendpanel_kv"
+			{
+				"wide"		"110"
+				"tall"		"20"
+			}
+        }
+    }
+    "MOTD_Panel"
+    {
+        "zpos"          "200"
     }
     "TFLogoImage"
 	{
 		"xpos"			"cs-0.5"
 		"ypos"			"20"
         "wide"			"256"
-        "tall"			"110"
+        "tall"			"105"
         "scaleImage"	"1"
         "image"			"replay/thumbnails/tflogo"
-	}
-    "RankPanel"
-	{
-		"xpos"			"c200"
-        "ypos"          "c125"
 	}
     "BackgroundFooter"
 	{
@@ -74,6 +177,174 @@
         "visible"       "0"
         "enabled"       "0"
 	}
+    "GeneralStoreButton"
+    {
+        "visible"       "0"
+        "enabled"       "0"
+	}
+    "CharacterSetupButton"
+    {
+        "visible"       "0"
+        "enabled"       "0"
+	}
+    "NewUserForumsButton"
+    {
+        "visible"       "0"
+        "enabled"       "0"
+	}
+    "AchievementsButton"
+    {
+        "visible"       "0"
+        "enabled"       "0"
+	}
+    "CommentaryButton"
+    {
+        "visible"       "0"
+        "enabled"       "0"
+	}
+    "CoachPlayersButton"
+    {
+        "visible"       "0"
+        "enabled"       "0"
+	}
+    "WorkshopButton"
+    {
+        "visible"       "0"
+        "enabled"       "0"
+	}
+    "ReplayButton"
+    {
+        "visible"       "0"
+        "enabled"       "0"
+	}
+    "ReportBugButton"
+    {
+        "visible"       "0"
+        "enabled"       "0"
+	}
+
+    // Main Menu Buttons
+
+    "CommunityBattle"
+    {
+        "ControlName"       "CExImageButton"
+        "fieldName"         "CommunityBattle"
+        "xpos"              "cs-0.5"
+        "ypos"              "130"
+        "zpos"              "30"
+        "wide"              "140"
+        "tall"              "65"
+
+        "visible"           "1"
+        "enabled"           "1"
+
+        "labelText"         "Community Battle"
+        "font"              "Paintball12"
+        "textAlignment"     "center"
+        "textinsety"        "50"
+
+        "paintbackground"   "1"
+        "defaultbgcolor_override"  "15 15 15 255"
+
+        "command"           "openserverbrowser"
+
+        "SubImage"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"SubImage"
+			"xpos"			"48"
+			"ypos"			"5"
+			"zpos"			"1"
+			"wide"			"45"
+			"tall"			"45"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/ranked_battle"
+			"scaleImage"	"1"
+		}
+    }
+
+    "Gear"
+    {
+        "ControlName"       "CExImageButton"
+        "fieldName"         "Gear"
+        "xpos"              "100"
+        "ypos"              "-75"
+        "zpos"              "30"
+        "wide"              "140"
+        "tall"              "65"
+
+        "visible"           "1"
+        "enabled"           "1"
+
+        "labelText"         "Gear"
+        "font"              "Paintball12"
+        "textAlignment"     "center"
+        "textinsety"        "50"
+
+        "PIN_TO_SIBLING"    "CommunityBattle"
+
+        "paintbackground"   "1"
+        "defaultbgcolor_override"  "15 15 15 255"
+
+        "command"		    "engine open_charinfo"
+
+        "SubImage"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"SubImage"
+			"xpos"			"48"
+			"ypos"			"5"
+			"zpos"			"1"
+			"wide"			"45"
+			"tall"			"45"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/gear_icon"
+			"scaleImage"	"1"
+		}
+    }
+
+    "Shop"
+    {
+        "ControlName"       "CExImageButton"
+        "fieldName"         "Shop"
+        "xpos"              "-100"
+        "ypos"              "-75"
+        "zpos"              "30"
+        "wide"              "140"
+        "tall"              "65"
+
+        "visible"           "1"
+        "enabled"           "1"
+
+        "labelText"         "Shop"
+        "font"              "Paintball12"
+        "textAlignment"     "center"
+        "textinsety"        "50"
+
+        "PIN_TO_SIBLING"    "CommunityBattle"
+
+        "paintbackground"   "1"
+        "defaultbgcolor_override"  "15 15 15 255"
+
+        "command"           "engine open_store"
+
+        "SubImage"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"SubImage"
+			"xpos"			"48"
+			"ypos"			"5"
+			"zpos"			"1"
+			"wide"			"45"
+			"tall"			"45"
+			"visible"		"1"
+			"enabled"		"1"
+			"image"			"replay/thumbnails/store_icon"
+			"scaleImage"	"1"
+		}
+    }
 
     // Other Settings
 

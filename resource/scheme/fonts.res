@@ -2391,6 +2391,156 @@ Scheme
 			}
 		}
 
+		// Cerbetica
+
+		"Cerbetica8"
+		{
+			"1"
+			{
+				"name"		"Cerbetica"
+				"tall"		"8"
+				"antialias"	"1"
+			}
+		}
+		"Cerbetica10"
+		{
+			"1"
+			{
+				"name"		"Cerbetica"
+				"tall"		"10"
+				"antialias"	"1"
+			}
+		}
+		"Cerbetica12"
+		{
+			"1"
+			{
+				"name"		"Cerbetica"
+				"tall"		"12"
+				"antialias"	"1"
+			}
+		}
+		"Cerbetica14"
+		{
+			"1"
+			{
+				"name"		"Cerbetica"
+				"tall"		"14"
+				"antialias"	"1"
+			}
+		}
+		"Cerbetica16"
+		{
+			"1"
+			{
+				"name"		"Cerbetica"
+				"tall"		"16"
+				"antialias"	"1"
+			}
+		}
+		"Cerbetica18"
+		{
+			"1"
+			{
+				"name"		"Cerbetica"
+				"tall"		"18"
+				"antialias"	"1"
+			}
+		}
+		"Cerbetica20"
+		{
+			"1"
+			{
+				"name"		"Cerbetica"
+				"tall"		"20"
+				"antialias"	"1"
+			}
+		}
+		"Cerbetica24"
+		{
+			"1"
+			{
+				"name"		"Cerbetica"
+				"tall"		"24"
+				"antialias"	"1"
+			}
+		}
+
+		// Splatfont
+
+		"Splatfont8"
+		{
+			"1"
+			{
+				"name"		"Splatfont 2"
+				"tall"		"8"
+				"antialias"	"1"
+			}
+		}
+		"Splatfont10"
+		{
+			"1"
+			{
+				"name"		"Splatfont 2"
+				"tall"		"10"
+				"antialias"	"1"
+			}
+		}
+		"Splatfonta12"
+		{
+			"1"
+			{
+				"name"		"Splatfont 2"
+				"tall"		"12"
+				"antialias"	"1"
+			}
+		}
+		"Splatfont14"
+		{
+			"1"
+			{
+				"name"		"Splatfont 2"
+				"tall"		"14"
+				"antialias"	"1"
+			}
+		}
+		"Splatfont16"
+		{
+			"1"
+			{
+				"name"		"Splatfont 2"
+				"tall"		"16"
+				"antialias"	"1"
+			}
+		}
+		"Splatfont18"
+		{
+			"1"
+			{
+				"name"		"Splatfont 2"
+				"tall"		"18"
+				"antialias"	"1"
+			}
+		}
+		"Splatfont20"
+		{
+			"1"
+			{
+				"name"		"Splatfont 2"
+				"tall"		"20"
+				"antialias"	"1"
+			}
+		}
+		"Splatfont24"
+		{
+			"1"
+			{
+				"name"		"Splatfont 2"
+				"tall"		"24"
+				"antialias"	"1"
+			}
+		}
+
 	}
 	CustomFontFiles
 	{
